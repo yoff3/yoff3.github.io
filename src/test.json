@@ -1,0 +1,46 @@
+[   
+    {"type":"directory","name":"/home","contents":[
+    {"type":"directory","name":"bil","size":"12K","time":"Nov 15 15:42","contents":[
+      {"type":"file","name":"11.txt","size":"7","time":"Dec 14  2020"},
+      {"type":"file","name":"15-11-2021_08-38-37.zip","size":"8.9M","time":"Nov 15 12:43"},
+      {"type":"directory","name":"Desktop","size":"4.0K","time":"Sep 21 09:13","contents":[
+        {"type":"file","name":"oskol_camera1.xspf","size":"580","time":"Aug  4 08:29"}
+      ]},
+      {"type":"directory","name":"Documents","size":"4.0K","time":"Oct 12 08:46","contents":[
+        {"type":"directory","name":"!ZEISS","size":"4.0K","time":"Apr  7  2021","contents":[
+          {"type":"file","name":"Calypso Advanced Training Rev[1]. 4.0.pdf","size":"7.8M","time":"Jan 28  2021"},
+          {"type":"file","name":"Calypso AutoRun Training.pdf","size":"1.6M","time":"Jan 12  2007"},
+          {"type":"file","name":"Calypso_Basic_3_6_e_SZ_001.pdf","size":"7.7M","time":"Jan 28  2021"},
+          {"type":"file","name":"FILTERS.pdf","size":"388K","time":"Jan 28  2021"},
+          {"type":"directory","name":"read","size":"4.0K","time":"Apr  7  2021","contents":[
+            {"type":"file","name":"BA_BP26SE_REV_3_0_en.pdf_ru.pdf","size":"11M","time":"Jan 28  2021"}
+          ]},
+          {"type":"directory","name":"Новые инструкции на русском","size":"4.0K","time":"Jan 22  2021","contents":[
+            {"type":"file","name":"CALYPSO_2014_basis_RU.pdf","size":"38M","time":"Jan 28  2021"},
+            {"type":"file","name":"GEAR_PRO_involute_4_0 RU.pdf","size":"41M","time":"Jan 28  2021"}
+          ]}
+        ]},
+        {"type":"file","name":"1. Обзорный вид.mkv","size":"4.4M","time":"Aug 23 10:21"},
+        {"type":"directory","name":"10","size":"4.0K","time":"Jun  7 18:33","contents":[
+          {"type":"directory","name":"Модуль 10","size":"4.0K","time":"Jun  7 18:33","contents":[
+            {"type":"file","name":"10 Модуль.  Стратегический маркетинг.pdf","size":"93K","time":"Jun  7 16:04"},
+            {"type":"file","name":"c819ca3a77bdd9f90064b9e35b8513fb.jpg","size":"305K","time":"Jun  7 16:08"},
+            {"type":"file","name":"Выбр стратегии.pdf","size":"783K","time":"Jun  7 16:06"},
+            {"type":"file","name":"Калькулятор юнит-экономики от JetStyle зачем он нужен и как пользоваться.pdf","size":"1.4M","time":"Jun  7 16:09"},
+            {"type":"file","name":"Основные инструменты интернет-маркетинга.pdf","size":"2.3M","time":"Jun  7 16:06"},
+            {"type":"file","name":"Поворачиваем UNIT-экономику для интернет магазина или производства.pdf","size":"705K","time":"Jun  7 16:08"},
+            {"type":"file","name":"Практика внутреннего маркетинга.pdf","size":"1.2M","time":"Jun  7 16:05"},
+            {"type":"file","name":"Практические примеры стратегий.pdf","size":"41K","time":"Jun  7 16:06"},
+            {"type":"file","name":"Прибыльность бизнеса.pdf","size":"1.2M","time":"Jun  7 16:05"},
+            {"type":"file","name":"Стратегический контроль реализации маркетингового плана.pdf","size":"375K","time":"Jun  7 16:07"},
+            {"type":"file","name":"Стратегия маркетинга.pdf","size":"541K","time":"Jun  7 16:05"},
+            {"type":"file","name":"Формирование стратегии.pdf","size":"548K","time":"Jun  7 16:07"},
+            {"type":"file","name":"Цели маркетинговой деятельности.pdf","size":"347K","time":"Jun  7 16:05"},
+            {"type":"file","name":"Юнит Экономика.pdf","size":"2.5M","time":"Jun  7 16:08"}
+          ]}
+        ]}
+      ]}]
+    }]
+},
+  {"type":"report","directories":20376,"files":134587}
+]
