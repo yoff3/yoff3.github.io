@@ -4,6 +4,6 @@ Go ahead and check my pet projects:
 
 2. [Kvast](https://yoff3.github.io/Kvast)
 
-3. [Yacht_club](https://github.com/yoff3/yacht_club)
+3. [Yacht_club](https://yoff3.github.io/yacht_club)
 
 4. [DirectoryTree](https://yoff3.github.io/DirectoryTree)
